@@ -1,0 +1,3 @@
+[submodule "annodoc"]
+	path = annodoc
+	url = https://github.com/akoehn/annodoc.git
