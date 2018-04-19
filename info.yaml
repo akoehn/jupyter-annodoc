@@ -1,6 +1,6 @@
 Type: IPython Notebook Extension
 Name: annodoc integration
-Description: visualizes depdency structures etc. using annodoc
+Description: visualizes dependency structures etc. using annodoc
 Link: readme.md
 Icon: icon.png
 Main: main.js
